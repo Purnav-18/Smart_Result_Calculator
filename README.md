@@ -29,7 +29,7 @@ CSS	Styling
 Vercel	Deployment
 📦 Installation & Setup
 # Clone the repository
-git clone https://github.com/your-username/Smart-Result-Calculator.git
+git clone [https://github.com/your-username/Smart-Result-Calculator.git](https://github.com/Purnav-18/Smart_Result_Calculator.git)
 
 # Navigate to the project folder
 cd Smart-Result-Calculator
